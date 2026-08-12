@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0046-permutations) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0242-valid-anagram) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0344-reverse-string) |
 ## Backtracking

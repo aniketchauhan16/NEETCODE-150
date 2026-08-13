@@ -9,22 +9,22 @@ class Solution {
             if(height[left] <= height[right]){
                 if( height[left] < left_max ){
                     sum += left_max - height[left];
-                    left++;
+                    
                 }
                 else{
                     left_max = height[left];
-                    left++;
                 }
+                    left++;
             }
             else{
                 if(height[right]<right_max){
                     sum+= right_max -height[right];
-                    right--;
+                    
                 }
                 else{
                     right_max = height[right];
-                    right--;
-                }
+                    
+                }right--;
             }
         }
         return sum;

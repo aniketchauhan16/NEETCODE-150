@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bracket Sequences
 |  |
 | ------- |

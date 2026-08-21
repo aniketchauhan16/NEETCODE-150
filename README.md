@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0567-permutation-in-string) |
@@ -159,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0567-permutation-in-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

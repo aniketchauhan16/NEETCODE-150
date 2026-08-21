@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |

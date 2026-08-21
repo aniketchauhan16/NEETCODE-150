@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0209-minimum-size-subarray-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |

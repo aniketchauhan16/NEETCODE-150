@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
@@ -111,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0905-sort-array-by-parity) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |

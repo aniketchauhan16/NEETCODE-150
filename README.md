@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0875-koko-eating-bananas) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0905-sort-array-by-parity) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -182,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

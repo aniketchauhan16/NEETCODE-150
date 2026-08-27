@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0078-subsets) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->

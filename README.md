@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0242-valid-anagram) |

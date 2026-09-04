@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0209-minimum-size-subarray-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Design
 |  |
 | ------- |

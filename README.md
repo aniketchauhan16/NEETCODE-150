@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0066-plus-one) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

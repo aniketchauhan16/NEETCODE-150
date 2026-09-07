@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0128-longest-consecutive-sequence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0853-car-fleet) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0853-car-fleet](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

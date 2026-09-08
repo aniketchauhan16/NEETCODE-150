@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3870-count-commas-in-range](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/3870-count-commas-in-range) |
 ## Design
 |  |
 | ------- |

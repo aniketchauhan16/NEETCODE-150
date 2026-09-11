@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0344-reverse-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion

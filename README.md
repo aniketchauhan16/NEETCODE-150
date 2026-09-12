@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0344-reverse-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0234-palindrome-linked-list) |
 | [0853-car-fleet](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -243,9 +245,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

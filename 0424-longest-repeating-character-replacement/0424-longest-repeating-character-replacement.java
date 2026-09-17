@@ -1,4 +1,5 @@
-class Solution {
+
+        class Solution {
     public int characterReplacement(String s, int k) {
         HashMap<Character,Integer> hm = new HashMap<>();
         int res = 0; int l =0; int maxf = 0;
@@ -15,4 +16,5 @@ class Solution {
         }
         return res;
     }
+
 }

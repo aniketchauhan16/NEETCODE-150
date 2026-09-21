@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-     if(s1.length() > s2.length()) return false;   
+         if(s1.length() > s2.length()) return false;   
     
     int[] count1 = new int[26];
     int[] count2 = new int[26];

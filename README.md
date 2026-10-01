@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0033-search-in-rotated-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

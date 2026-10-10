@@ -1798,5 +1798,13 @@
     "timestamp": 1756439188000,
     "title": "Reverse Integer",
     "titleSlug": "reverse-integer"
+  },
+  {
+    "id": "2167796583",
+    "title": "Reverse Linked List",
+    "titleSlug": "reverse-linked-list",
+    "timestamp": 1791605487000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
   }
 ]

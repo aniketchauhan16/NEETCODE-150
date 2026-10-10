@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-10 | Leetcode | Reverse Linked List | java |
 | 2026-10-03 | Leetcode | Move Zeroes | java |
 | 2026-10-02 | Leetcode | Contains Duplicate | java |
 | 2026-10-01 | Leetcode | Container With Most Water | java |

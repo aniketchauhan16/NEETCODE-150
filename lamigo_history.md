@@ -4,6 +4,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-13 | Leetcode | Linked List Cycle II | java |
+| 2026-10-11 | Leetcode | Prime Subset Selection I | java |
+| 2026-10-11 | Leetcode | Three Fibonacci Sum | java |
+| 2026-10-11 | Leetcode | Three Fibonacci Sum | java |
 | 2026-10-10 | Leetcode | Reverse Linked List | java |
 | 2026-10-03 | Leetcode | Move Zeroes | java |
 | 2026-10-02 | Leetcode | Contains Duplicate | java |

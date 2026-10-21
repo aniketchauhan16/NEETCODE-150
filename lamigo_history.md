@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-21 | Leetcode | Valid Parentheses | java |
+| 2026-10-18 | Leetcode | Minimum Deletions to Make Array Sharp | java |
 | 2026-10-13 | Leetcode | Linked List Cycle II | java |
 | 2026-10-11 | Leetcode | Prime Subset Selection I | java |
 | 2026-10-11 | Leetcode | Three Fibonacci Sum | java |

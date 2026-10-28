@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-car-fleet](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0875-koko-eating-bananas) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -192,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/aniketchauhan16/NEETCODE-150/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
